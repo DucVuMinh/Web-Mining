@@ -1,0 +1,38 @@
+Training the random forest...
+('error: ', 426)
+error pos:  146
+error neg:  156
+error neu:  124
+Creating the bag of words...
+
+(4080, 5000)
+Training the random forest...
+('error: ', 403)
+error pos:  133
+error neg:  135
+error neu:  135
+Creating the bag of words...
+
+(4080, 5000)
+Training the random forest...
+('error: ', 430)
+error pos:  105
+error neg:  156
+error neu:  169
+Creating the bag of words...
+
+(4080, 5000)
+Training the random forest...
+('error: ', 365)
+error pos:  104
+error neg:  130
+error neu:  131
+Creating the bag of words...
+
+(4080, 5000)
+Training the random forest...
+('error: ', 414)
+error pos:  140
+error neg:  112
+error neu:  162
+

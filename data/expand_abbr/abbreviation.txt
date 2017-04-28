@@ -1,0 +1,37 @@
+a|anh
+e|em
+ny|người_yêu
+y|yêu
+iu|yêu
+ngta|người_ta
+ng ta|người_t
+ntn|như_thế_nào
+uh|ừ
+uhm|ừ
+đt|điện_thoại
+m|mình
+ko|không
+k|không
+kh|không
+khong|không
+t|tôi
+bb|blackberry
+bbx|blackberry
+xtr|x triệu
+sam sung| samsung
+samsungsamsung|samsung
+ss|samsung
+tui|tôi
+thui|thôi
+buon|buồn
+bùn|buồn
+haizx|hãi
+hazx|hãi
+ip|iphone
+ipx|iphone
+vc|vãi_cứt
+tv|ti_vi
+fan|phan
+lag|lác
+sr|xin_lỗi
+cty|công_ty
