@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d554e811-f301-48d3-95bf-f3892022a7ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sent2Vec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Word2Vec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Word2Vec_Avg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generate_dict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sentiment_analysis_vs2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/word2vec_tensor.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/300features_40minwords_10context" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SA-training_negative.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SA-training_neutral.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SA-training_positive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smooth_neg.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smooth_neu.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smooth_pos.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vocab.csv" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Word2Vec_BagOfCentroids.py" afterPath="$PROJECT_DIR$/src/Word2Vec_BagOfCentroids.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/token/SA-training_negative.txt" afterPath="$PROJECT_DIR$/data/SA-training_negative.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/token/SA-training_neutral.txt" afterPath="$PROJECT_DIR$/data/SA-training_neutral.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/token/SA-training_positive.txt" afterPath="$PROJECT_DIR$/data/SA-training_positive.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/word2vec.py" afterPath="$PROJECT_DIR$/src/word2vec.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sentiment_analysis.py" afterPath="$PROJECT_DIR$/sentiment_analysis.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_matrix.txt" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -193,102 +173,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="token" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smooth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web_mining" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="back_up" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
