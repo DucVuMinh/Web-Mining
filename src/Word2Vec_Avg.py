@@ -165,13 +165,13 @@ def svm_learn(train_vec, train_label, test_vec, test_label):
 if __name__ == '__main__':
     model = Word2Vec.load("300features_40minwords_10context")
     num_features = 400
-    data_pos = pd.read_csv('./data/smooth_pos.csv', header=0, \
+    data_pos = pd.read_csv('../data/smooth_pos2.csv', header=0, \
     						   delimiter="\t", quoting=3)
     data_pos['sentiment'] = 1
-    data_neg = pd.read_csv('./data/smooth_neg.csv', header=0, \
+    data_neg = pd.read_csv('../data/smooth_neg2.csv', header=0, \
     						   delimiter="\t", quoting=3)
     data_neg['sentiment'] = -1
-    data_neu = pd.read_csv('./data/smooth_neu.csv', header=0, \
+    data_neu = pd.read_csv('../data/smooth_neu2.csv', header=0, \
                            delimiter="\t", quoting=3)
     data_neu['sentiment'] = 0
     train_data = data_pos.iloc[1:1201]

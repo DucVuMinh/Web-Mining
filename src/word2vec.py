@@ -50,6 +50,7 @@ class KaggleWord2VecUtility(object):
         for raw_sentence in raw_sentences:
             # If a sentence is empty, skip it
             if len(raw_sentence) > 0:
+                print raw_sentence
                 # Otherwise, call review_to_wordlist to get a list of words
                 sentences.append( KaggleWord2VecUtility.review_to_wordlist( raw_sentence, \
                   remove_stopwords ))
@@ -97,9 +98,9 @@ if __name__ == '__main__':
     test_data= test_data.append(data_neu.iloc[1200:])
     all_data = data_pos.append(data_neg)
     all_data = all_data.append(data_neu)
-    bonus_data =  pd.read_csv('./data/smooth_cong_nghe2.csv',header=0, \
+    bonus_data =  pd.read_csv('../data/smooth_cong_nghe2.csv',header=0, \
                     delimiter="\t", quoting=3)
-    bonus_data2 = pd.read_csv('./data/smooth_out1_2.csv',header=0, \
+    bonus_data2 = pd.read_csv('../data/smooth_out1_2.csv',header=0, \
                     delimiter="\t", quoting=3)
 
     # Verify the number of reviews that were read (100,000 in total)
@@ -137,7 +138,7 @@ if __name__ == '__main__':
     num_features = 400    # Word vector dimensionality
     min_word_count = 10   # Minimum word count
     num_workers = 4       # Number of threads to run in parallel
-    context = 5          # Context window size
+    context = 4          # Context window size
     downsampling = 1e-3   # Downsample setting for frequent words
 
     # Initialize and train the model (this will take some time)
@@ -162,4 +163,3 @@ if __name__ == '__main__':
     model.save(model_name)
 
 
-    
