@@ -1,7 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d554e811-f301-48d3-95bf-f3892022a7ea" name="Default" comment="" />
+    <list default="true" id="d554e811-f301-48d3-95bf-f3892022a7ea" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/300features_40minwords_10context" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bag_of_Words_model.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bag_of_Words_model_svm.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back_up/smooth_neg.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back_up/smooth_neu.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back_up/smooth_pos.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back_up/vocab.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/smooth/demo/smooth_cong_nghe.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/smooth/demo/smooth_neg.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/smooth/demo/smooth_neu.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/smooth/demo/smooth_out1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/smooth/demo/smooth_pos.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/smooth/smooth/smooth_cong_nghe.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/document/Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification 14ACL.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pass_data_to_csv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demo/filter_data.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/demo/sentiment_analysis.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/text8.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tsne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/token" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/preprocess/smooth_cong_nghe3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/preprocess/smooth_neg3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/preprocess/smooth_neu3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/preprocess/smooth_out1_3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/preprocess/smooth_pos3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin.tar.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/CHANGES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/README-en.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/README-vi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/build.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/dist/vn.hus.nlp.tokenizer-4.1.1-src/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/commons-cli-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/junit.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/maxent-2.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/opennlp-tools-1.4.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/trove.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/vn.hus.nlp.fsm-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/vn.hus.nlp.sd-2.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/lib/vn.hus.nlp.utils-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/sentDetection/VietnameseSD.bin.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/automata/dfaLexicon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/automata/externalLexicon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/bigram/bigram.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/bigram/unigram.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/lexers/lexers.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/normalization/rules.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/models/tokenization/prefix/namedEntityPrefix.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/out_token/SA-training_negative.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/out_token/SA-training_neutral.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/out_token/SA-training_positive.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/out_token/cong_nghe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/out_token/content_comment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/out_token/out1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/preprocess/SA-training_negative.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/preprocess/SA-training_neutral.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/preprocess/SA-training_positive.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/preprocess/cong_nghe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/preprocess/content_comment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/preprocess/out1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/0.tok.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/0.tok.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/1.tok.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/1.tok.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/2.tok.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/2.tok.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/3.tok.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/3.tok.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/4.tok.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/samples/4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.log.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/tokenizer.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/vn.hus.nlp.tokenizer-4.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/vnTokenizer.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vnTokenizer/vn.hus.nlp.tokenizer-4.1.1-bin/vnTokenizer.sh" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +154,7 @@
       <file leaf-file-name="word2vec.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/word2vec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1044">
+            <state relative-caret-position="1944">
               <caret line="115" column="33" lean-forward="false" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
               <folding>
                 <element signature="e#46#55#0" expanded="true" />
@@ -44,18 +166,50 @@
       <file leaf-file-name="filter_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/filter_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
+            <state relative-caret-position="918">
               <caret line="53" column="17" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="53" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="preprecess_vs2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="preprecess_vs2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/preprecess_vs2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+            <state relative-caret-position="241">
+              <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BagOfWords.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BagOfWords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sentiment_analysis.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sentiment_analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1116">
+              <caret line="71" column="42" lean-forward="true" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
+              <folding>
+                <element signature="e#24#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,7 +228,7 @@
       <file leaf-file-name="Word2Vec_Avg.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Word2Vec_Avg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2700">
+            <state relative-caret-position="2754">
               <caret line="165" column="46" lean-forward="false" selection-start-line="165" selection-start-column="46" selection-end-line="165" selection-end-column="46" />
               <folding>
                 <element signature="e#51#85#0" expanded="true" />
@@ -158,6 +312,9 @@
     <option name="width" value="1527" />
     <option name="height" value="873" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -185,6 +342,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web-Mining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web-Mining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -204,7 +375,7 @@
       <recent name="$PROJECT_DIR$/bonus_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Word2Vec_Avg">
+  <component name="RunManager" selected="Python.sentiment_analysis">
     <configuration default="false" name="sentiment_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,6 +464,9 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Word2Vec_Avg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -458,9 +632,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Word2Vec_Avg" />
-        <item index="1" class="java.lang.String" itemvalue="Python.word2vec" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sentiment_analysis" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sentiment_analysis" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Word2Vec_Avg" />
+        <item index="2" class="java.lang.String" itemvalue="Python.word2vec" />
         <item index="3" class="java.lang.String" itemvalue="Python.sentiment_analysis (1)" />
         <item index="4" class="java.lang.String" itemvalue="Python.filter_data (1)" />
       </list>
@@ -481,13 +655,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="27" width="1527" height="873" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24966711" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3482024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32578617" sideWeight="0.49730977" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -516,27 +693,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/filter_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sentiment_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KaggleWord2VecUtility.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Word2Vec_BagOfCentroids.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -665,13 +821,6 @@
     </entry>
     <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/sklearn/ensemble/forest.py" />
     <entry file="file://$PROJECT_DIR$/DeepLearningMovies_BagOfWords.py at master · wendykan_DeepLearningMovies.html" />
-    <entry file="file://$PROJECT_DIR$/src/BagOfWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="61" column="23" lean-forward="false" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/six.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -772,21 +921,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sentiment_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3546">
-          <caret line="72" column="38" lean-forward="false" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/demo/sentiment_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4295">
           <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="e#211#230#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,7 +935,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Word2Vec_Avg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2700">
+        <state relative-caret-position="2754">
           <caret line="165" column="46" lean-forward="false" selection-start-line="165" selection-start-column="46" selection-end-line="165" selection-end-column="46" />
           <folding>
             <element signature="e#51#85#0" expanded="true" />
@@ -815,7 +953,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/word2vec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
+        <state relative-caret-position="1944">
           <caret line="115" column="33" lean-forward="false" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
           <folding>
             <element signature="e#46#55#0" expanded="true" />
@@ -825,17 +963,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/filter_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
+        <state relative-caret-position="918">
           <caret line="53" column="17" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="53" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/preprecess_vs2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        <state relative-caret-position="241">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BagOfWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_matrix.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentiment_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="71" column="42" lean-forward="true" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
+          <folding>
+            <element signature="e#24#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
